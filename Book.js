@@ -52,7 +52,7 @@ function purchaseBook(bookDetails, discountPercentage, taxPercentage, stockAmoun
   
   // Usage example:
   let bookDetails = {
-    title: "The Great Book",
+    title: "Don Quixote",
     price: 100,
   };
   
